@@ -18,6 +18,10 @@ public keys first.
 
 ## Usage
 
+    git clone https://github.com/lenalebt/goyubi.git
+    cd goyubi
+    ./goyubi.sh
+
 ### SSH authentication
 
 Simply do `ssh user@server`. It will ask you for your Yubikey PIN and 
