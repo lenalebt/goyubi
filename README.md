@@ -18,6 +18,11 @@ public keys first.
 
 ## Usage
 
+First make sure your docker environment is working correctly and you 
+can start docker images, and that you have `lsusb` installed. See for 
+example http://www.ubuntuupdates.org/ppa/docker on how to install 
+docker.
+
     git clone https://github.com/lenalebt/goyubi.git
     cd goyubi
     ./goyubi.sh
